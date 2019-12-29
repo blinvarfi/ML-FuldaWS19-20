@@ -5,3 +5,6 @@ Also, extra supporting tutorials and resources that complement the class.
 # Extras
 * ML introduction with MNIST:             [Link](https://www.youtube.com/watch?v=ARODjRbGbSg) 
 * numPy basics tutorial:    [Link](https://www.youtube.com/watch?v=GB9ByFAIAH4) 
+* Statistics basics tutorial:    [Link](https://www.youtube.com/watch?v=Y4lTTHua0TE) 
+* Mathplotlib basics tutorial:    [Link](https://www.youtube.com/watch?v=UO98lJQ3QGI)
+
