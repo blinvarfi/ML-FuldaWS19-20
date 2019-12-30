@@ -5,6 +5,7 @@ Also, extra supporting tutorials and resources that complement the class.
 # Extras
 * Essence of Linear Algebra: [Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * Inner vs Outer product of Vectors: [Link](https://www.youtube.com/watch?v=FCmH4MqbFGs)
+* Eigenvalues and Eigenvectors: [Link](https://www.youtube.com/watch?v=G4N8vJpf7hM)
 * ML introduction with MNIST: [Link](https://www.youtube.com/watch?v=ARODjRbGbSg) 
 * numPy basics tutorial: [Link](https://www.youtube.com/watch?v=GB9ByFAIAH4) 
 * Statistics basics tutorial: [Link](https://www.youtube.com/watch?v=E4HAYd0QnRc) 
