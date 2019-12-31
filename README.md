@@ -2,7 +2,7 @@
 Repository containing all Problem Sets of Machine Learning class of 2019 / 2020 at Hochschule Fulda.
 Also, extra supporting tutorials and resources that complement the class.
 
-# Below listed some helpful resources
+Helpful resources listed below
 
 # Math
 * Basic statistics formulas for mean, variance and standard deviation: [Link](https://www.youtube.com/watch?v=E4HAYd0QnRc) 
