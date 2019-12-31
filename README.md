@@ -6,7 +6,7 @@ Also, extra supporting tutorials and resources that complement the class provide
 * Basic statistics formulas for mean, variance and standard deviation [Link](https://www.youtube.com/watch?v=E4HAYd0QnRc) 
 * Essence of Linear Algebra, understanding concepts in a geometric way [Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * Inner vs Outer product of vectors [Link](https://www.youtube.com/watch?v=FCmH4MqbFGs)
-* Variance Covariance Matrix [Link](https://www.youtube.com/watch?v=G16c2ZODcg8)
+* Variance Covariance Matrix [Link](https://www.youtube.com/watch?v=G16c2ZODcg8) or [link](https://www.youtube.com/watch?v=0GzMcUy7ZI0)
 * Eigenvalues and Eigenvectors - what are they [Link1](https://www.youtube.com/watch?v=G4N8vJpf7hM) - solve for a given matrix [Link2](https://www.youtube.com/watch?v=IdsV0RaC9jM)
 * PCA basic concept [Link](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 * Least squares and linear regression [link](https://www.youtube.com/watch?v=PaFPbb66DxQ)
