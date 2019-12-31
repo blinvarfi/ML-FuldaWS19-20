@@ -12,8 +12,6 @@ Helpful resources listed below
 
 
 # Code
-* NumPy - Basics, Slicing, Reshaping, Math operations: [Link](https://www.youtube.com/watch?v=GB9ByFAIAH4)
+* Conceptualizing MNIST dataset [Link](https://www.youtube.com/watch?v=ARODjRbGbSg) 
+* NumPy - Basics, Slicing, Reshaping, Math operations [Link](https://www.youtube.com/watch?v=GB9ByFAIAH4)
 * MatPlotLib - Basics [Link1](https://www.youtube.com/watch?v=UO98lJQ3QGI) [Link2](https://www.youtube.com/watch?v=nKxLfUrkLE8) Subplotting [Link3](https://www.youtube.com/watch?v=XFZRVnP-MTU)
-
-# Concepts
-* ML introduction with MNIST: [Link](https://www.youtube.com/watch?v=ARODjRbGbSg) 
