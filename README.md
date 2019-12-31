@@ -7,6 +7,7 @@ Also, extra supporting tutorials and resources that complement the class provide
 * Essence of Linear Algebra, understanding concepts in a geometric way [Link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * Inner vs Outer product of vectors [Link](https://www.youtube.com/watch?v=FCmH4MqbFGs)
 * Eigenvalues and Eigenvectors - what are they [Link1](https://www.youtube.com/watch?v=G4N8vJpf7hM) - solve for a given matrix [Link2](https://www.youtube.com/watch?v=IdsV0RaC9jM)
+* PCA basic concept [Link](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 
 
 # Code
