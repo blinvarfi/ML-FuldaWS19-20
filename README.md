@@ -18,3 +18,6 @@ Also, extra supporting tutorials and resources that complement the class provide
 * Conceptualizing MNIST dataset [Link](https://www.youtube.com/watch?v=ARODjRbGbSg) 
 * NumPy - Basics, Slicing, Reshaping, Math operations [Link](https://www.youtube.com/watch?v=GB9ByFAIAH4)
 * MatPlotLib - Basics [Link1](https://www.youtube.com/watch?v=UO98lJQ3QGI) [Link2](https://www.youtube.com/watch?v=nKxLfUrkLE8) Subplotting [Link3](https://www.youtube.com/watch?v=XFZRVnP-MTU)
+
+# Questions
+* PSet03 and PSet04 ask to find Covariance or OuterProduct of the first 500 matrices in the MNIST dataset, what is the meaning of the result if it's only one matrice. Shouldn't each matrix have it's own covariance matrix? or outerproduct for that matter?
