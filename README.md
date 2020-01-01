@@ -11,6 +11,7 @@ Also, extra supporting tutorials and resources that complement the class provide
 * PCA basic concept [Link](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 * Least squares and linear regression [link](https://www.youtube.com/watch?v=PaFPbb66DxQ)
 * Gradient Descent basic concept [link](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+* Finding the derivative of a vector function [link](https://www.youtube.com/watch?v=i9FugTcqWKo)
 
 # Code
 * Conceptualizing MNIST dataset [Link](https://www.youtube.com/watch?v=ARODjRbGbSg) 
