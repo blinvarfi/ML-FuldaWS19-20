@@ -9,6 +9,7 @@ Also, extra supporting tutorials and resources that complement the class provide
 * Variance Covariance Matrix [Link](https://www.youtube.com/watch?v=G16c2ZODcg8) or [link](https://www.youtube.com/watch?v=0GzMcUy7ZI0)
 * Eigenvalues and Eigenvectors - what are they [Link1](https://www.youtube.com/watch?v=G4N8vJpf7hM) - solve for a given matrix [Link2](https://www.youtube.com/watch?v=IdsV0RaC9jM)
 * PCA basic concept [Link](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+* PCA optimization, min / max using LaGrange multipliers [link](https://www.youtube.com/watch?v=MUENAuYkgmI&t=368s)
 * Least squares and linear regression [link](https://www.youtube.com/watch?v=PaFPbb66DxQ)
 * Gradient Descent basic concept [link](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 * Finding the derivative of a vector function [link](https://www.youtube.com/watch?v=i9FugTcqWKo)
