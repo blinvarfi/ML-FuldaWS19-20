@@ -13,6 +13,9 @@ Also, extra supporting tutorials and resources that complement the class provide
 * Least squares and linear regression [link](https://www.youtube.com/watch?v=PaFPbb66DxQ)
 * Gradient Descent basic concept [link](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 * Finding the derivative of a vector function [link](https://www.youtube.com/watch?v=i9FugTcqWKo)
+* One Hot Encoding [link](https://www.youtube.com/watch?v=v_4KWmkwmsU)
+* Cross-Entropy [link](https://www.youtube.com/watch?v=tRsSi_sqXjI)
+
 
 # Code
 * Conceptualizing MNIST dataset [Link](https://www.youtube.com/watch?v=ARODjRbGbSg) 
