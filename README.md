@@ -14,7 +14,8 @@ Also, extra supporting tutorials and resources that complement the class provide
 * Gradient Descent basic concept [link](https://www.youtube.com/watch?v=sDv4f4s2SB8)
 * Finding the derivative of a vector function [link](https://www.youtube.com/watch?v=i9FugTcqWKo)
 * One Hot Encoding [link](https://www.youtube.com/watch?v=v_4KWmkwmsU)
-* Cross-Entropy [link](https://www.youtube.com/watch?v=tRsSi_sqXjI)
+* Cross-Entropy definition on Information Theory [link](https://www.youtube.com/watch?v=ErfnhcEV1O8)
+* Cross-Entropy for ML [link](https://www.youtube.com/watch?v=tRsSi_sqXjI)
 
 
 # Code
