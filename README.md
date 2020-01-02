@@ -23,4 +23,4 @@ Also, extra supporting tutorials and resources that complement the class provide
 * MatPlotLib - Basics [Link1](https://www.youtube.com/watch?v=UO98lJQ3QGI) [Link2](https://www.youtube.com/watch?v=nKxLfUrkLE8) Subplotting [Link3](https://www.youtube.com/watch?v=XFZRVnP-MTU)
 
 # Questions
-* PSet05 Ex02
+* PSet05 Ex02, Ex05 (why use mean???)
