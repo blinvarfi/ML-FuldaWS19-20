@@ -3,8 +3,9 @@ Repository containing all Problem Sets of Machine Learning class of 2019 / 2020 
 Also, extra supporting tutorials and resources that complement the class provided below.
 
 # ML Concepts
-* How a Neural Network works, and why it works like that (pure gold) [link](https://www.youtube.com/watch?v=JN6H4rQvwgY)
+* How a Deep Learning Neural Network works, and why it works like that [link](https://www.youtube.com/watch?v=JN6H4rQvwgY)
 * How a Neural Network works, and why it works like that (more visualization) [link](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* How a Convolutional Neural Network works, and why it works like that [link](https://www.youtube.com/watch?v=H-HVZJ7kGI0)
 
 # Math
 * Basic statistics formulas for mean, variance and standard deviation [Link](https://www.youtube.com/watch?v=E4HAYd0QnRc) 
