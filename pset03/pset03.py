@@ -120,9 +120,9 @@ print(outer_prod02.shape)
 
 # 3.c)
 print('\nQuestion 3.c)')
-eigh_val, eigh_vec = np.linalg.eigh(outer_prod02)f
-ev_1 = eigh_vec[:,-1].reshape(28, 28)
-ev_2 = eigh_vec[:,-2].reshape(28, 28)
+eig_val, eig_vec = np.linalg.eigh(outer_prod02)
+ev_1 = eig_vec[:,-1].reshape(28, 28)
+ev_2 = eig_vec[:,-2].reshape(28, 28)
 fig, ax = plt.subplots(2, 1)
 fig.suptitle('First and Second EigenVectors')
 ax[0].imshow(ev_1)
