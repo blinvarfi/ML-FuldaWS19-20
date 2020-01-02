@@ -103,9 +103,9 @@ flatten_arr = sample_500.reshape(1, -1)
 #outer product = v*vT
 #outer_prod = np.dot(flatten_arr.reshape(28*28, 1), flatten_arr)
 outer_prod = flatten_arr.reshape(28*28, 1) * flatten_arr
-print('Shape of outer products is: ', outer_prod.shape)
+print('Shape of outer product is: ', outer_prod.shape)
 fig, ax = plt.subplots()
-ax.set_title('Sample 500 outer products')
+ax.set_title('Sample 500 outer product')
 ax.imshow(outer_prod)
 
 # 3.b)
@@ -120,7 +120,7 @@ print(outer_prod02.shape)
 
 # 3.c)
 print('\nQuestion 3.c)')
-eigh_val, eigh_vec = np.linalg.eigh(outer_prod02)
+eigh_val, eigh_vec = np.linalg.eigh(outer_prod02)f
 ev_1 = eigh_vec[:,-1].reshape(28, 28)
 ev_2 = eigh_vec[:,-2].reshape(28, 28)
 fig, ax = plt.subplots(2, 1)
