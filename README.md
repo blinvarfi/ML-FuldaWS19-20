@@ -30,3 +30,4 @@ Also, extra supporting tutorials and resources that complement the class provide
 
 # Questions
 * PSet05 Ex02, Ex05 (why use mean???)
+* PSet07 Ex01 Softmax (is that suppossed to be memorized?), Ex03 WTF?, Ex04 Padding ?
