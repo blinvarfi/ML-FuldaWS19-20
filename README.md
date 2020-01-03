@@ -22,12 +22,11 @@ Also, extra supporting tutorials and resources that complement the class provide
 * Cross-Entropy definition on Information Theory [link](https://www.youtube.com/watch?v=ErfnhcEV1O8)
 * Cross-Entropy for ML [link](https://www.youtube.com/watch?v=tRsSi_sqXjI)
 
-
 # Code
 * Conceptualizing MNIST dataset [Link](https://www.youtube.com/watch?v=ARODjRbGbSg) 
 * NumPy - Basics, Slicing, Reshaping, Math operations [Link](https://www.youtube.com/watch?v=GB9ByFAIAH4)
 * MatPlotLib - Basics [Link1](https://www.youtube.com/watch?v=UO98lJQ3QGI) [Link2](https://www.youtube.com/watch?v=nKxLfUrkLE8) Subplotting [Link3](https://www.youtube.com/watch?v=XFZRVnP-MTU)
 
 # Questions
-* PSet05 Ex02, Ex05 (why use mean???)
+* PSet05 Ex02, is that solution correct?
 * PSet07 Ex01 Softmax (is that suppossed to be memorized?), Ex03 WTF?, Ex04 Padding ?
