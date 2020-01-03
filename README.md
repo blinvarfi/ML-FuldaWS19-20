@@ -4,7 +4,7 @@ Also, extra supporting tutorials and resources that complement the class provide
 
 # ML Concepts
 * How a Deep Learning Neural Network works, and why it works like that [link](https://www.youtube.com/watch?v=JN6H4rQvwgY)
-* How a Neural Network works, and why it works like that (more visualization) [link](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* How a Neural Network works, and why it works like that (emphasis on visualization) [link](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 * How a Convolutional Neural Network works, and why it works like that [link](https://www.youtube.com/watch?v=H-HVZJ7kGI0)
 
 # Math
